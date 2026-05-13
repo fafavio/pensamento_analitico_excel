@@ -13,11 +13,11 @@ Transformar dados em insights
 
 Foi realizado um levantamento de necessidades de negócio para estruturar uma análise sobre:
 
-Tempo de entrega
-Estado de entrega
-Tipo de pagamento
-Custo do frete
-Volume de pedidos
+-Tempo de entrega
+-Estado de entrega
+-Tipo de pagamento
+-Custo do frete
+-Volume de pedidos
 
 A base de dados e a ideia inicial foram inspiradas em um vídeo do YouTube:
 
@@ -26,20 +26,25 @@ A base de dados e a ideia inicial foram inspiradas em um vídeo do YouTube:
 No entanto, o projeto não foi copiado.
 Foi desenvolvido um levantamento próprio de negócio para dar sentido real à análise.
 
-❓ Perguntas de Negócio
+❓ Perguntas de Negócio:
+
 Qual estado entregou mais rápido?
 Qual tipo de pagamento apresentou melhor tempo de entrega?
 O custo do frete influencia na velocidade da entrega?
-📊 KPIs Desenvolvidos
-Tempo médio de entrega
-Tempo médio por estado
-Tempo médio por tipo de pagamento
-Análise de frete vs tempo de entrega
-Custo total
-Quantidade total de pedidos
-🛠 Ferramentas Utilizadas
+
+📊 KPIs Desenvolvidos:
+
+-Tempo médio de entrega
+-Tempo médio por estado
+-Tempo médio por tipo de pagamento
+-Análise de frete vs tempo de entrega
+-Custo total
+-Quantidade total de pedidos
+
+🛠 Ferramentas Utilizadas:
+
 Microsoft Excel
 Tabelas
-Fórmulas estatísticas (MÉDIA, MÉDIASE, etc.)
+Fórmulas estatísticas (MÉDIA, MÉDIASE, SOMA,MÁXIMO E MÍNIMO)
 Gráficos
-Tabela Dinâmica
+
